@@ -1,0 +1,2 @@
+frontend_url=http://13.60.210.215:3000/;
+backend_url=http://51.20.63.212:5000/;
